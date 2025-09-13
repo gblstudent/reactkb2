@@ -9,7 +9,10 @@ Value change for a variable via useState in a single component
 Value change for an array / list variable via useState in a single component
 
 ## Part 3
-props Pass from Parent to child component via useState
+props Pass from Parent to Child component via useState
+
+## Part 4
+props Pass from Child to Parent component via useEffect & useState
 
 
 # Getting Started with Create React App

@@ -3,7 +3,7 @@ import userEvent from '@testing-library/user-event';
 import Parent03 from './Parent03';
 import ChildCom03 from './ChildCom03';
 
-describe('Component3 Testing : ', () => {
+describe('Parent to Child Testing : ', () => {
 
     test('Parent Text should update', async () => {
         var testPhrase = "test1";
