@@ -1,6 +1,21 @@
+# Code Description 
+
+## Part 1
+
+Value change for a variable via useState in a single component
+
+## Part 2
+
+Value change for an array / list variable via useState in a single component
+
+## Part 3
+props Pass from Parent to child component via useState
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
@@ -68,3 +83,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
